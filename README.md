@@ -28,5 +28,5 @@ The objective of this project is to contribute to the success of the business by
 - Focus on exceptional service and shipping strategies to meet customer preferences.
 
 ## Power BI Dashboard
-![PowerBIModuleEndProject]
+![Superstore Dashboard]
 (https://github.com/Suman2110/Superstore_Sales_Dashboard/blob/main/Superstore%20Dashboard.png)
