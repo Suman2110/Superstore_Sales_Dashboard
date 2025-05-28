@@ -1,6 +1,6 @@
 # Superstore_Sales_Dashboard
 ## Project Objective
-The objective of this project is to contribute to the success of the business by utilizing Data Analysis techniques, specifically focusing on Time Series Analysis, to provide valuable insights and accurate Sales Forecasting of 15 Days.
+The objective of this project is to contribute to the success of the business by utilizing Data Analysis techniques, to provide valuable insights and accurate Sales Forecasting.
 
 ## Key Insights
 1. **Payment Insights:** 43% prefer COD, 22% Cards, 35% Online - Tailoring payment options can enhance customer satisfaction.
@@ -15,13 +15,10 @@ The objective of this project is to contribute to the success of the business by
 10. **Forecast:** Next 15 days avg. sale $5,304 - Preparing for what lies ahead.
 
 ## Project Learnings
-The project provided valuable learnings in mastering Data Analysis techniques, especially Time Series Analysis, to drive business success with valuable insights and precise sales forecasts.
-
-Project Learnings:
-✨ I embraced a range of data analysis techniques, enhancing my proficiency in this field.
-✨ Specializing in the intricate domain of time series analysis allowed me to unlock deeper insights.
-✨ I delivered on the promise of providing invaluable insights that empower informed decision-making.
-✨ Successfully integrating accurate sales forecasting, interactive dashboard creation, and driving tangible business success.
+- I embraced a range of data analysis techniques, enhancing my proficiency in this field.
+- Specializing in the intricate domain of time series analysis allowed me to unlock deeper insights.
+- I delivered on the promise of providing invaluable insights that empower informed decision-making.
+- Successfully integrating accurate sales forecasting, interactive dashboard creation, and driving tangible business success.
 
 ## Recommendations
 - Tailor payment options to enhance customer satisfaction.
